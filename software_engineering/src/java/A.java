@@ -9,5 +9,6 @@ public class A {
 
 		System.out.println("modify A in devB");
 
+		System.out.println("modify A in devC");
 	}
 }
